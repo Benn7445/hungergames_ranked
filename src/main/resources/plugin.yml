@@ -1,0 +1,4 @@
+name: hungergames_ranked
+version: '${project.version}'
+main: me.quartz.hungergames_ranked.Hungergames_ranked
+api-version: '1.20'
